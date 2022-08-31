@@ -28,8 +28,8 @@ getgenv().ValiantAimHacks = {
             TeamColor = LocalPlayer.TeamColor,
         },
     },
-    BlacklistedPlayers = {LocalPlayer},
-    WhitelistedPUIDs = {91318356},
+    BlacklistedPlayers = {1096320608},
+    WhitelistedPUIDs = {1254713667},
 }
 
 -- // Show FOV
