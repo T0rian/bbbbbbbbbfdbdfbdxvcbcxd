@@ -29,7 +29,7 @@ getgenv().ValiantAimHacks = {
         },
     },
     BlacklistedPlayers = {1096320608},
-    WhitelistedPUIDs = {1032603101},
+    WhitelistedPUIDs = {1032603101, 210098670},
 }
 
 -- // Show FOV
