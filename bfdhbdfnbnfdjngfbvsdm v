@@ -36,7 +36,7 @@ getgenv().ValiantAimHacks = {
 local circle = Drawing.new("Circle")
 circle.Transparency = 1
 circle.Thickness = 2
-circle.Color = Color3.fromRGB(231, 84, 128)
+circle.Color = Color3.fromRGB(8, 125, 138)
 circle.NumSides = 12
 circle.Filled = false
 function ValiantAimHacks.updateCircle()
